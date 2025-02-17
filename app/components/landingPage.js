@@ -84,7 +84,7 @@ export default function AxisWealthHomepage() {
             <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
             <p>
               To offer professional, transparent, and trustworthy remote management services, ensuring
-              clients' assets are managed with excellence and reliability across borders.
+              clients&apos; assets are managed with excellence and reliability across borders.
             </p>
           </motion.div>
         </div>
